@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_SemanticKernel_Basic", "CSharp_SemanticKernel_Basic.csproj", "{4CE8A88F-3BCE-4E14-9F3C-0580BAADE45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE8A88F-3BCE-4E14-9F3C-0580BAADE45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE8A88F-3BCE-4E14-9F3C-0580BAADE45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE8A88F-3BCE-4E14-9F3C-0580BAADE45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE8A88F-3BCE-4E14-9F3C-0580BAADE45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
