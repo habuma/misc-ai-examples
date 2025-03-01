@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-MCP-Server", "CSharp-MCP-Server.csproj", "{081F4A60-7414-495E-A039-C88B6128389C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081F4A60-7414-495E-A039-C88B6128389C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081F4A60-7414-495E-A039-C88B6128389C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081F4A60-7414-495E-A039-C88B6128389C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081F4A60-7414-495E-A039-C88B6128389C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
