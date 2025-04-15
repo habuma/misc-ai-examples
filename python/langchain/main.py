@@ -3,10 +3,6 @@ from langchain_openai import ChatOpenAI
 
 app = Flask(__name__)
 
-@app.route("/")
-def hello():
-    return "hiya!"
-
 @app.route("/ask", methods=['POST'])
 def ask():
     content = request.get_json()
