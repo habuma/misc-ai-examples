@@ -32,6 +32,10 @@ You are now ready to run the agent using the ADK's web interface.
 
 ## Running the agent
 
+You'll need an API key from Google to access the Generative Language API.
+Before running the application, edit the `looping_agent/.env` file to set the
+`GOOGLE_API_KEY` property with the value of your API key.
+
 Fire up the web interface with the `adk` command line:
 
 ```
